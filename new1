@@ -1,8 +1,11 @@
 #include<stdio.h>
 int main()
 {
-  int a=1,b=2,sum=0;
+  int a=1,b=2,sum=0,sub=0;
   sum=a+b;
   printf("sum of a and b is",sum);
+sub=b-a;
+printf("sub of a and b is",sum);
+
 }
   
